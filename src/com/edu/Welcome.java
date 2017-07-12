@@ -6,6 +6,7 @@ public class Welcome {
 		
 		System.out.println("Welcome");
 		System.out.println("Java");
+		System.out.println("World");
 	}
 
 }
